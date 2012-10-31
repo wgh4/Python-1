@@ -66,7 +66,7 @@ python itunes_search.py -a"Beyonce" -fSEARCH -d
 ***************************
 
 This program has been tested on an Apple MAC 
-SourceCode can be found on GitHub: 
+SourceCode can be found on GitHub: https://github.com/wgh4/Python-1.git
 
 
 
